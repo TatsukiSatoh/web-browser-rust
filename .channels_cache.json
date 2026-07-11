@@ -1,0 +1,3212 @@
+[
+  {
+    "id": "C083P6W3CSH",
+    "name": "#external-iptech",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 18,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C08EML86DT2",
+    "name": "#external-ibatasan",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C08UN5KFFL1",
+    "name": "#dev-datadog-success-notify-stg-env",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0ATHGEN407",
+    "name": "#tmp-sales-knowledge",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02GNQWEGAV",
+    "name": "#extenal-giftee",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 6,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02LJFKRJRK",
+    "name": "#notified-costlp-site",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0B3JK0840H",
+    "name": "#external-commercex",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 11,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01LTG58VEG",
+    "name": "#dev-support",
+    "topic": "",
+    "purpose": "こちらカスタマーサポートからのお問い合わせチャンネルになります。",
+    "memberCount": 20,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C09SA9XLC1L",
+    "name": "#購入者の声などなど",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 15,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C09SJS3NMD4",
+    "name": "#external-nakamu",
+    "topic": "hubspot to salesforceへの移行のためのチャンネルです",
+    "purpose": "",
+    "memberCount": 10,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0AFFUW349J",
+    "name": "#marketing-offline",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 16,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0B4K42G339",
+    "name": "#external-datarize",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 4,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0B784NFQGM",
+    "name": "#extarnal-20260910-event",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 6,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0483AGNM9U",
+    "name": "#recustomer様_ideatech",
+    "topic": "\u003chttps://docs.google.com/document/d/13aw-ElnFpX3oI32HQVG48z8lQ6Ui57dE-nCPxrsgdIk/edit\u003e",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0217EWJMRV",
+    "name": "#notified-ringring",
+    "topic": "電話があったらこちらに通知がきます。対応したらスタンプを押しましょう！\n----\n\u003chttps://www.fondesk.jp/\u003e\nメールアドレス：shota.tsujino+1@anvie.co.jp\nパスワード：Anvie0301",
+    "purpose": "入電があるとここに連絡がきます",
+    "memberCount": 28,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C04LLLJNL2V",
+    "name": "#external-aws",
+    "topic": "",
+    "purpose": "awsの管理を共有しあうチャンネルです",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C09UUNCJXV5",
+    "name": "#aaaa",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02D3LP6DEC",
+    "name": "#pr",
+    "topic": "",
+    "purpose": "広報業務に関するチャンネル",
+    "memberCount": 21,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02L6M8QBGD",
+    "name": "#dev-github",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02QRS8LADU",
+    "name": "#cs-intercom",
+    "topic": "",
+    "purpose": "\u003chttps://www.intercom.com/help/en/articles/1501873-slack-app\u003e\nslackインテグレーションのドキュメントはこちらです。",
+    "memberCount": 10,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C069NJRN7M5",
+    "name": "#dev-deploy",
+    "topic": "",
+    "purpose": "デプロイ系全般の通知",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C075FN7N85A",
+    "name": "#afdsafasdf",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C079M8EH7BJ",
+    "name": "#marketing-dxpo_tokyo",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0AR54NK4UV",
+    "name": "#ﾆｯｾﾝ-ｻﾎﾟｰﾄ",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C09R6HP56BV",
+    "name": "#projectseed",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 96,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02GP6MUDV5",
+    "name": "#notified-service-site",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 21,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0AFLKK86HG",
+    "name": "#x-aquarium26-session-engineer",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 12,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0228M34C77",
+    "name": "#extenal-dialog",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C038ZRDL2NR",
+    "name": "#hr-onboarding-okina",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07S7SV5K17",
+    "name": "#dev-notification-plan",
+    "topic": "",
+    "purpose": "v2でストアを選択した際にここに通知がきます\n(2024/10/24時点ではBasicプランを選択したのみ通知が送信されます)",
+    "memberCount": 6,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0AMLECD8Q0",
+    "name": "#ai-news",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02QHSKUJMV",
+    "name": "#dev-infra-budget",
+    "topic": "インフラ予算アラート",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C072NUH5J9Y",
+    "name": "#external-salesforce",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 8,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0AFE1GU4G3",
+    "name": "#pj-ai活用-shugoさん寺子屋",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 18,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07TR22J0S2",
+    "name": "#external-twogate",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 9,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C06MKSTV24R",
+    "name": "#z------------191954600010007",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C078RQT0K8E",
+    "name": "#marketing-marketingweek_tokyo",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07AYSRQYBW",
+    "name": "#infra-prod-env-notify",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 12,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C092DCNLL4X",
+    "name": "#emoji-announcements",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0A6XTP2AKG",
+    "name": "#external-emberpoint",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C03TQ1WV2GP",
+    "name": "#flagship-recustomer",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C072U6QL9EE",
+    "name": "#corporate-hq-relocation",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02UCE2PG07",
+    "name": "#extenal-channeltalk",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 11,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02AW63R57E",
+    "name": "#_todo_recustomerco",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C078PC9S329",
+    "name": "#dev-salesforce",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0A14CM6ZML",
+    "name": "#ﾆｯｾﾝ受注攻略委員会",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 10,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C9ZFBC0GK",
+    "name": "#daily",
+    "topic": "",
+    "purpose": "日報的なsomething",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C04F94U3F5K",
+    "name": "#cs-hubspot-chat",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 20,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C09B1HS08H4",
+    "name": "#tmp-kickoff202509",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 4,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C09SFED97KM",
+    "name": "#poc-recustomer-herp",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 18,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0392SZ4F7U",
+    "name": "#design-jp",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C03CDL97LNR",
+    "name": "#hr-onbording-sato",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C080F541WD9",
+    "name": "#zlatan-import-fulfillment",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 10,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C096VSTG4TS",
+    "name": "#design-bill",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 13,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0ALL2P22HM",
+    "name": "#d2c-watch",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0B581TV1LJ",
+    "name": "#data-analysis",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 12,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0352Q0LX98",
+    "name": "#筋ﾄﾚｸﾞｯｽﾞ引越し",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C05JB1KA16V",
+    "name": "#dev-design-notify",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C060LTF8VB4",
+    "name": "#dac-recustomer",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C074AC7S15M",
+    "name": "#dev-v2-infra",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C079Y7Y2GSH",
+    "name": "#dev-muller",
+    "topic": "",
+    "purpose": "mullerのチャンネル(元tracking-block)",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07ALBVJKLL",
+    "name": "#infra-dev-env-notify",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 12,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C08V10Q6C3C",
+    "name": "#z-ohira-sacai-jp-215469250604632",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0AQZ7C90KG",
+    "name": "#external-vesta",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 11,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01T28BUZQR",
+    "name": "#teaching-materials",
+    "topic": "",
+    "purpose": "おすすめの教材の共有や会社での購入できるかの確認をするチャンネルです",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C030D63V92M",
+    "name": "#extenal-storehero",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 9,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C037K4X898Q",
+    "name": "#z------191954600002436",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07DTCYGDMG",
+    "name": "#2024-05-俺達同期ﾒﾝﾊﾞｰ",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C04MYFTC8TZ",
+    "name": "#pj_ex_recustomer",
+    "topic": "",
+    "purpose": "クラシコム様とのチャンネル",
+    "memberCount": 9,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01UZGEFZ1Q",
+    "name": "#shopify-marketing",
+    "topic": "\u003chttps://docs.google.com/spreadsheets/d/1Fno-yiZ2GCTPQhhffL6H9ISZVxKU-OM7TPVAlyTyads/edit#gid=0\u003e",
+    "purpose": "\u003chttps://docs.google.com/spreadsheets/d/1Fno-yiZ2GCTPQhhffL6H9ISZVxKU-OM7TPVAlyTyads/edit#gid=0\u003e",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C03BRG9QLNA",
+    "name": "#shopify-recordings",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C03PD3SP205",
+    "name": "#_todo_購入体験ﾌﾟﾗｯﾄﾌｫｰﾑに変更してください",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C094N9EQAA0",
+    "name": "#tmp-infographics_202507",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0ABGTX9TNV",
+    "name": "#legal-contracts-signed",
+    "topic": "",
+    "purpose": "主にseles側で締結した契約書（NDA、発注書、取次契約等）を共有するチャンネルです。\nここに投げてもらえればドライブ格納しておきます。",
+    "memberCount": 12,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0AR1TJC4CR",
+    "name": "#product-daily",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C044DT5M97H",
+    "name": "#offsite_2022",
+    "topic": "",
+    "purpose": "オフサイトmtgのご案内\n\n\u0026lt;Wi-Fi\u0026gt;\nID:futtu1 ~ futtu8\npass:19800408",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C04EY5E3547",
+    "name": "#z-------------191954600006560",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C05KZ0V2LDS",
+    "name": "#extenal-yappli",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07EK3FNMN1",
+    "name": "#marketing-cans",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 6,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C09TD7GSM8A",
+    "name": "#ms-churn",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 17,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0AQHFH7L6N",
+    "name": "#ﾏﾗｿﾝ部",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 7,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0935J3PX0U",
+    "name": "#gazelleﾌｧﾐﾘｰﾁｬﾝﾈﾙ",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 74,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C06UXBFV2DV",
+    "name": "#triage-0422-unreturnable",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C08CYC33A5Q",
+    "name": "#dev-datadog-prod-env",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 12,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02DG3L5YN7",
+    "name": "#extenal-proteger",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 4,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C03757PS6SH",
+    "name": "#shopify-team",
+    "topic": "",
+    "purpose": "shopify事業部メンバーのみのチャンネル\n今DMでやりとりしていることは今後このチャンネルで！\nKTとの案件相談もここに残して、電話で相談した内容も簡潔にここにメモしてください",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C03NZKLTV1P",
+    "name": "#extenal-apparelweb",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0722V8K2DU",
+    "name": "#legal-sales",
+    "topic": "",
+    "purpose": "クライアントとの利用規約、NDAのリーガルチェックを依頼するチャンネルです！\n※それ以外の法務相談等はこのチャンネルではNGです",
+    "memberCount": 20,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C078YB0DP99",
+    "name": "#marketing-marketingweek_osaka",
+    "topic": "",
+    "purpose": "マーケティングWEEK_大阪\n9/25−27",
+    "memberCount": 4,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C079K1G24H5",
+    "name": "#z-t-okabe-commerce-media-info-191954600010080",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0ADRC37613",
+    "name": "#ex-punks-recustomer",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 10,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0AR0BBHACQ",
+    "name": "#marketing_user-meetup",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 10,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C091CD3TH2A",
+    "name": "#onboarding_yasumin",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 6,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0A89DEHTGD",
+    "name": "#rizap計画2026",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 10,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02ENMDT28L",
+    "name": "#recustomer_x_airdesign",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C024RET6ZSB",
+    "name": "#notified-egosearching",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C066C5RBVLZ",
+    "name": "#external-commercemedia",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C06EGAAHE5D",
+    "name": "#z-ryota-shunpu-sfz3-gmail-com-191954600009995",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C08NQ8W1A81",
+    "name": "#extenal-huckleberry2",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 17,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C016LDSEH9C",
+    "name": "#-all-shopify",
+    "topic": "EC支援事業タスクマスタシート\n\u003chttps://docs.google.com/spreadsheets/d/1-eJlnYcW5W67ZDEKOEOJhy_64n6e4JabIIvO6lD16Is/edit#gid=0\u003e\n\n議事録\n\u003chttps://docs.google.com/document/d/1T80BtDIcs6ZIWNgV-H_Vceqt9205Hs9HmmLG6TAiUvM/edit?usp=sharing\u003e",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C03LQ8HCU92",
+    "name": "#extenal-vonage",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 8,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0518HA6JEB",
+    "name": "#kumagaikazuki_recustomer",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07UP532JEA",
+    "name": "#external-maxsupport",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C06KAME01QD",
+    "name": "#stest-alert-channel",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C08DJ4L8W78",
+    "name": "#marketing-glp",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C08DNBYPY4U",
+    "name": "#dev-sagawa-billing-support",
+    "topic": "",
+    "purpose": "佐川の請求に関するやり取り（返金など）を行うch\n\nお客様コード:14788206-003",
+    "memberCount": 13,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0BDYCX87QF",
+    "name": "#sales-sea",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01T5REDCN5",
+    "name": "#marketing-all",
+    "topic": "",
+    "purpose": "マーケティングについてお話しする場所です",
+    "memberCount": 23,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02RN1PRY10",
+    "name": "#design-returns",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C05G7DGK3B5",
+    "name": "#extenal-ivry",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 14,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C087GNC8M9S",
+    "name": "#dev-datadog-dev-env",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 11,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C08RSN252RF",
+    "name": "#-all-product-updates",
+    "topic": "",
+    "purpose": "このチャンネルでは、プロダクトの新機能開発・改善・リリース情報を全社向けに共有します。開発の背景や意図もあわせて掲載し、ビジネスサイド・サポートチーム・全社員がキャッチアップしやすくすることを目的としています。",
+    "memberCount": 33,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C099HC595CJ",
+    "name": "#external-degica",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 6,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C090XD97UAJ",
+    "name": "#komoju_recustomer_logiless",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C040G0G08UR",
+    "name": "#dev-tracking-report",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C06D71LTETG",
+    "name": "#z-baren------191954600009984",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07S259PMNF",
+    "name": "#ecbeing-recustomer",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 19,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C080A3NEX4L",
+    "name": "#dev-team-dribbler",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 13,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0AMMFU2UQJ",
+    "name": "#extenal-paiza",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 4,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C03SP3A9Z7Y",
+    "name": "#d2c-bitstar-recustomer",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0AUUEX0EFK",
+    "name": "#共催ｳｪﾋﾞﾅｰ_recustomer_de-standard",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0B9NABLNCF",
+    "name": "#20260728_wuuzy_weblife_recustomer_ﾊｯｸﾙﾍﾞﾘｰ_ﾌﾙﾊﾞﾗﾝｽ_rabo",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 24,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0340BZ8295",
+    "name": "#gaprise-recustomer",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07FDG45PT7",
+    "name": "#notified-receptionist",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 26,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C09CYT75ANA",
+    "name": "#tmp-onb_kodai",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0A8N82PR71",
+    "name": "#external-alpen",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 4,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02A2EFKU8M",
+    "name": "#management",
+    "topic": "",
+    "purpose": "戦略、組織作り、マネージメントについてのコミュニケーション",
+    "memberCount": 8,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C03R91NE4SY",
+    "name": "#dev-sms-alert",
+    "topic": "",
+    "purpose": "vonageを毎日監視してください。\nワークフローを確認したらスタンプを押してください。\n現状は$-4000を超えるとadmin@recustomer.coに警告が行きます。(80％使用)",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07DC5X9EDV",
+    "name": "#dev-sentry-dev-env",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 10,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C08BSUMCLGH",
+    "name": "#external-garan",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 10,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C08TM5E29QQ",
+    "name": "#tf-zoom-cancellation",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0A7144Q6KA",
+    "name": "#dev-rss-classmethod",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 4,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C05LRUXD823",
+    "name": "#dev-ando-san",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07E75A72SD",
+    "name": "#dev-sentry-stg-env",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 10,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C09E81GE4F4",
+    "name": "#hr-membervoice",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0BAKNJSRFC",
+    "name": "#notified_salesforce",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 12,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "CGPLMF59N",
+    "name": "#notified-inquiry",
+    "topic": "",
+    "purpose": "お問い合わせチャンネル",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C04SGU12S56",
+    "name": "#kitahara_recustomer",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0B8WHSLWG6",
+    "name": "#ignition",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 19,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0BG5R4B7DY",
+    "name": "#tf-pycon-2026",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01B18RQT7F",
+    "name": "#-all-recustomer",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 33,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02DE8LK1S9",
+    "name": "#情報共有ｰｽﾀｰﾄｱｯﾌﾟ系ｰ",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07GH1SNHFG",
+    "name": "#notified-sales-hubspot",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 16,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0BF5AW7JB0",
+    "name": "#ex-keio-recustomer",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02LW00F1GD",
+    "name": "#sales-recordings",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 13,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0ATPP602UC",
+    "name": "#external-cyber-records",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 6,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "CDHF03YDS",
+    "name": "#meidaisha",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C03JPPBHUKG",
+    "name": "#marketing-intern",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C088037FYCC",
+    "name": "#notified-sales-hub",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0ALQ94FC30",
+    "name": "#competitive-intel",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0ALVT28W7M",
+    "name": "#external-mgre",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C05CUHKA6NT",
+    "name": "#notified-acall",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0220NGFE7K",
+    "name": "#体温報告",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02Q544QVKP",
+    "name": "#cs-request",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07G9PRGYKU",
+    "name": "#tf-frontend-update",
+    "topic": "",
+    "purpose": "今のFEのリポジトリについて改善し続け、より良いFEの世界を目指し続けるchです",
+    "memberCount": 7,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C08EWQZKDLJ",
+    "name": "#external-kurasino",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 10,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0BDKEKRH9N",
+    "name": "#extenal-ai-robotics",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07SW7YS40P",
+    "name": "#external-flued",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 8,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01A8QEG6VD",
+    "name": "#sales-backoffice",
+    "topic": "請求書送付先アドレス\nTO：backoffice@recustomer.co",
+    "purpose": "・受注報告など",
+    "memberCount": 22,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C03BGQQDNTU",
+    "name": "#dev-pickup-alert",
+    "topic": "",
+    "purpose": "佐川集荷の成否を確認できるメールを転送しています。\n\nエラーが起きた場合すぐに確認してください。\n11:30分に必ず確認してください。\n\n確認先電話番号\n03-3768-8711\n\n対処方法\n1.電話でエラーが起きている伝票番号を確認\n2.エラー詳細を確認\n3.エラーが起きている伝票番号の情報を修正\n4.再送し正常取り込みを確認",
+    "memberCount": 16,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C093NNWART6",
+    "name": "#tmp-onb_zumi",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 10,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0AM6CTTAR3",
+    "name": "#external-shizai",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 15,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0ARHEE4F6C",
+    "name": "#external-ams",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 17,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C09FUKT398E",
+    "name": "#ex_2512_speaks_cx_recustomer様",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 8,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02AEQ3KNP6",
+    "name": "#_todo-personalbook",
+    "topic": "",
+    "purpose": "パーソナルブックの記入が終わった方から、leaveしてください。",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0ARXK5Q9D2",
+    "name": "#external-dgbt",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 27,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02MCRG7CNR",
+    "name": "#dev-security",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C05H0NRJXCH",
+    "name": "#product-new-buisiness",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07RNHLQH9U",
+    "name": "#notification-plan",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 22,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C08UBHQ7SUB",
+    "name": "#external-hiyaku",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 15,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0ADMEXHAAZ",
+    "name": "#tatsuki-pr-review-alert",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0AUENY7R8U",
+    "name": "#tmp_golf_trainning",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0AV3TWV1LL",
+    "name": "#20260604ｾﾐﾅｰ_ﾏｸﾛｼﾞ_nint_digdig_ﾊｯｸﾙﾍﾞﾘｰ_ｴﾌｶﾌｪ_ｸﾞﾘﾆｯｼﾞ_recustomer_mtc",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 21,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C029ZSM9PGQ",
+    "name": "#sales-expansion",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 16,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C031FKZAMDZ",
+    "name": "#extenal-fracta",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 4,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C06N26PVBA5",
+    "name": "#dev-rel",
+    "topic": "",
+    "purpose": "zennなどのtech blogや、カンファレンス参加など、社外的活動も含めたdev relに関するコミュニケーションのch",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07V033GEVD",
+    "name": "#extenal-pps-bebit",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C09QHGMSKU6",
+    "name": "#tmp-onb_mitomi",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 8,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C033990RRK3",
+    "name": "#dev-infra-security-alert",
+    "topic": "セキュリティアラート",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C08694W6B5K",
+    "name": "#ms-all",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 26,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0AUXP6URB7",
+    "name": "#ex-shopify-resort-recustomer",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 16,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0474C2CY8Z",
+    "name": "#extenal-fbl",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 21,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C04E318BD5L",
+    "name": "#dev-github-code-review",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 14,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C05GGDKTE3E",
+    "name": "#dev-api-schema-notify",
+    "topic": "",
+    "purpose": "A channel to notify when there are updates or modifications to the API schema\n\nAPIスキーマの更新や修正を通知するチャネル",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C06DZRH0L8Z",
+    "name": "#ahc-recustomer",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02GHCKBMQA",
+    "name": "#ﾀﾞｲｴｯﾄ-or-ﾃﾞﾌﾞｴｯﾄ",
+    "topic": "",
+    "purpose": "デブはメンタルから理論を提唱しております。その成果をここで発表しましょう。",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02HZ20KFK9",
+    "name": "#dev-all",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 28,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C05ACGR0VTJ",
+    "name": "#clockit-recustomer",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0860DR58J3",
+    "name": "#external-hape",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C08BRBMHZK7",
+    "name": "#external-kumemurasan",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C09N7CX2VL3",
+    "name": "#sales-order-entry",
+    "topic": "",
+    "purpose": "新規契約の情報の登録用チャンネルです。\nワークフローを使って情報を共有してください！\n請求フローに使う情報なので正確な情報を登録してください",
+    "memberCount": 16,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C099B7CG6UD",
+    "name": "#recustomer様_ｸﾞﾛｰｽｿｲﾙ_ｺﾝﾃﾝﾂ制作",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 4,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01TVKF1M09",
+    "name": "#product-design",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0220CB9D2A",
+    "name": "#extenal-superstudio",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 42,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C04E66U4J5S",
+    "name": "#z------------191954600006547",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07LH5UK17U",
+    "name": "#-all-とったどぉ",
+    "topic": "",
+    "purpose": "営業受注報告ルーム",
+    "memberCount": 31,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C096D2Z6P8A",
+    "name": "#dev-rss",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 10,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C09TGQFU13N",
+    "name": "#ms-onboarding",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 4,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0AMNAS5UKZ",
+    "name": "#tmp-news",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01KPUU6V2N",
+    "name": "#extenal-openlogi",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 10,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "CF1P0FT2P",
+    "name": "#kiji",
+    "topic": "",
+    "purpose": "気になった記事を投下するチャンネル",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02RU1UBZ9S",
+    "name": "#extenal-logiless",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 31,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02SKU3HE9Y",
+    "name": "#dev-checkout",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C04CDH4204C",
+    "name": "#extenal-logikura",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 4,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C04JCL8K831",
+    "name": "#dev-daily",
+    "topic": "1.デイリーをAM10:00スタート！",
+    "purpose": "ここでdev,stgの環境の開始と停止の連絡を行ってください！",
+    "memberCount": 13,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C06F4GKEDRD",
+    "name": "#z-azure-tree-191954600009998",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0B3MD150ER",
+    "name": "#mk_0626event",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 14,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C021TM3EDQC",
+    "name": "#recustomer_refund",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0260Q4AUGZ",
+    "name": "#route06-anvie",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02QRT4PV7G",
+    "name": "#design-checkout",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C039S4FS12S",
+    "name": "#dev-daily-report",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C074D6T00P5",
+    "name": "#dev-cicd-notify",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 11,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0754QTABJS",
+    "name": "#dev-react",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 6,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C08BF1Y3M4N",
+    "name": "#external-w2",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 13,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0A9GPG4QCR",
+    "name": "#extenal-seiseidou",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C019G90E486",
+    "name": "#notified-corporate-site",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 21,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C034FDB0EFK",
+    "name": "#atena-post",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C074QRNC1RR",
+    "name": "#dev-python",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 8,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0A8H5HUDNH",
+    "name": "#tmp-kame",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 6,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0ARVSTSH6F",
+    "name": "#external-shopify-recustomer",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 26,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0B83S183HC",
+    "name": "#ms-info-share",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 15,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0BDKG7J21W",
+    "name": "#dev-stripe-notify",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 7,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "CP23UD2UX",
+    "name": "#web-dev",
+    "topic": "",
+    "purpose": "ディレクション用会話チャンネル（コーダー）",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0219H0V8UV",
+    "name": "#recustomer_uiux",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C06N5TT6KLJ",
+    "name": "#slack-bot-test",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C076057D9J4",
+    "name": "#dev-deploy-plan",
+    "topic": "",
+    "purpose": "デプロイを〇〇日にやりたいなどの相談や予定計画を行うためのチャンネル",
+    "memberCount": 14,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C079KJZA23H",
+    "name": "#dev-team-striker",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 14,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C09PRBHCJHX",
+    "name": "#sales-appointment-notification",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 14,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0ALQ6U7RRC",
+    "name": "#ec-news",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C3W36PF6W",
+    "name": "#-all-random",
+    "topic": "Non-work banter and water cooler conversation",
+    "purpose": "A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels.",
+    "memberCount": 33,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C074SCPET24",
+    "name": "#infra-dev-account-notify",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C088JUQJ34G",
+    "name": "#external-acrove",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C057J2HN0TZ",
+    "name": "#z-rina-191954600009221",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C3WLVUJJC",
+    "name": "#-all",
+    "topic": "全体周知を行うためのチャンネル。コメントは必ずスレッドへ。",
+    "purpose": "",
+    "memberCount": 33,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0A7KB4V71R",
+    "name": "#pj_tbyb_bigdeal",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 6,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02GQBRGCA1",
+    "name": "#hr-onboard-kae",
+    "topic": "",
+    "purpose": "藤森さんのオンボーディング用の期間限定チャンネル。\n",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02N53K8F2T",
+    "name": "#cs-recordings",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C04K5BTG10D",
+    "name": "#1on1-okina",
+    "topic": "",
+    "purpose": "オッキーとの1on1用",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C051L1UGGVB",
+    "name": "#and4c_recustomer",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C05L9QQHR6F",
+    "name": "#firework-recustomer",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0B6YDNLVFC",
+    "name": "#extarnal-exotecnihon",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C08DB32UGQ1",
+    "name": "#dev-datadog-stg-env",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 11,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C09FAD78X4Z",
+    "name": "#external-ivry-hr",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C09KNK9SXL4",
+    "name": "#marketing-reusetech",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C030ME64RK9",
+    "name": "#extenal-feedforce",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C041UP5R7EH",
+    "name": "#dev-outsourcing",
+    "topic": "Development questions, sharing, etc.",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C06EX4BJK7A",
+    "name": "#z-h-kaminaga-diamondhead-tech-191954600009987",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C074G92R2GZ",
+    "name": "#infra-misc-notify",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 6,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C08U7JSQDD3",
+    "name": "#dev-datadog-success-notify-prod-env",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0B2MG764GH",
+    "name": "#english-journey",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C05RARBC6KB",
+    "name": "#extenal-drobe",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 17,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02Q3EREGMN",
+    "name": "#zeros-recustomer",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0503TEE5M5",
+    "name": "#extenal-ntm",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 19,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C074SKJAH6C",
+    "name": "#slack-bot-sandbox",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C04B55M0R8R",
+    "name": "#floorstandard-recustomer",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C06GYM67NR5",
+    "name": "#dev-infra-alert-v2",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C08BGQADU3W",
+    "name": "#pjt-tbyb",
+    "topic": "",
+    "purpose": "9月までになんとかMRR500万行きたい！\n喫緊の目標：4月までに3社導入している状態！",
+    "memberCount": 12,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C08SF3ZSESD",
+    "name": "#external-anyreach",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 25,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0A5B6CQ0MS",
+    "name": "#dev-team-v3-fe",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 8,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0AALGXPJP3",
+    "name": "#external-togo-san",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 4,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02AR87QY4B",
+    "name": "#virtual-coffee",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02DE8P9P3P",
+    "name": "#情報共有",
+    "topic": "",
+    "purpose": "直接的に関係のない情報共有をする場",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C09J5U17J7N",
+    "name": "#tmp-onb_202510",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 10,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C030KU6MYG3",
+    "name": "#extenal-colormeapp",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C091SC0T06Q",
+    "name": "#external-stripe",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 14,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C03B62FEBRS",
+    "name": "#dev-infra-report",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C03BDC4D936",
+    "name": "#dev-backlog",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C08SVUAG3AM",
+    "name": "#ext_ﾘｶｽﾀﾏｰ_sky",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02A5PU9L4V",
+    "name": "#hr",
+    "topic": "採用活動に関するコミュニケーション\n候補者管理\n\u003chttps://www.notion.so/recustomer/2bd2240203ba4de2b46b9ed4b94dd469\u003e",
+    "purpose": "採用活動に関するコミュニケーション",
+    "memberCount": 26,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C04RVMC5SEQ",
+    "name": "#kitahara_satoho",
+    "topic": "",
+    "purpose": "北原さんとのチャンネル",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C08KV4UEFL1",
+    "name": "#notification-findy-team-plus",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0967CEAZLJ",
+    "name": "#extenal-nahato",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 4,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0B7FTNFN7J",
+    "name": "#tmp-社員旅行2026",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C04NZ43NZ1R",
+    "name": "#product-dev-fixed",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C04Q042FSM6",
+    "name": "#auth-prod-infra-alert",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C06JDQFS5QD",
+    "name": "#z-baren------191954600010012",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07ATFE1KUM",
+    "name": "#infra-stg-env-notify",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 12,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C03HTAT9GSX",
+    "name": "#dropseed-recustomer",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C04AX1V009X",
+    "name": "#auth-deploy-alert",
+    "topic": "インフラアラート",
+    "purpose": "\u003chttps://github.com/anviedd/recustomer-auth/actions\u003e\n\nrecustomer-authのデプロイ結果を通知する",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C04TCRVHS4F",
+    "name": "#recustomer-nairo-resort",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C08T165C0V7",
+    "name": "#onboarding_chage",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 7,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C09CKTZRT0S",
+    "name": "#pr_use-case",
+    "topic": "",
+    "purpose": "企業事例について話すチャンネル",
+    "memberCount": 8,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C09CWMN9WSJ",
+    "name": "#mk_is-dailyreports",
+    "topic": "",
+    "purpose": "主にGrowthのアポイント進捗を報告していきます。レポートが無くても常に最新の進捗が分かることがゴールです。（旧岩楯オンボチャンネル）",
+    "memberCount": 18,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0B7EPQNA84",
+    "name": "#extarnal-awoo",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C085SUK0ZLK",
+    "name": "#external-saleshub",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 21,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C03CPQX8Z8W",
+    "name": "#z------191954600002847",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C04V49BQTM1",
+    "name": "#product",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 24,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C09972S89B8",
+    "name": "#tf-adidas-introduce",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 6,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07C1RQUATX",
+    "name": "#stack-recustomer-tsi",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 19,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0BB19A3ZP1",
+    "name": "#geekplus_recustomer",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C06GY82K35E",
+    "name": "#dev-oms-notice",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 12,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0B6E6MD4EN",
+    "name": "#tmp-onb_babako",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 12,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C3W5S45DK",
+    "name": "#-all-global",
+    "topic": "Company-wide announcements and work-based matters",
+    "purpose": "This channel is for team-wide communication and announcements. All team members are in this channel.",
+    "memberCount": 33,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02A95CHSM9",
+    "name": "#sales-all",
+    "topic": "cc: \u003cmailto:sales@recustomer.co|sales@recustomer.co\u003e",
+    "purpose": "契約管理シート\n\u003chttps://docs.google.com/spreadsheets/d/1DiHRYj9Ks1teEUl8I9Ye-GP1_huULsqFMhCuZpYU-DQ/edit?usp=sharing\u003e",
+    "memberCount": 28,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C05SCMCUE8M",
+    "name": "#-all-greetings",
+    "topic": "",
+    "purpose": "勤怠についての共有はこちらでお願いします！\n（リモート、遅刻、早退、休暇、など）\n※休暇中はプロフィールの表示名の横に（*/*~*/*日休み）と記入お願いします。",
+    "memberCount": 32,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C08RY1LFVDF",
+    "name": "#notified-startupclass",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C098WURG7E2",
+    "name": "#design-nagae-san",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 7,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C09J075UTMK",
+    "name": "#tmp-onb_masaki-matsuzaki",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 8,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C034WJ9696W",
+    "name": "#extenal-weblifejapan",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 9,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07DSR6UU7K",
+    "name": "#dev-sentry-prod-env",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 11,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07PXELBW76",
+    "name": "#kuroda-test-notification",
+    "topic": "",
+    "purpose": "主に通知のテスト用チャンネルです。\n黒田のSlackアカウントが削除されたら、このチャンネルも削除してしまって問題ありません。",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C086B5R0H3Q",
+    "name": "#external-bng-partners",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 4,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C08UU5A8WV7",
+    "name": "#hr-meals",
+    "topic": "",
+    "purpose": "採用会食のお店選びをするチャンネル",
+    "memberCount": 6,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0A9G3ZN15W",
+    "name": "#hr-startup-aquarium-2026",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 18,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0B7A5ZQZ2A",
+    "name": "#dev-shimamura",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01JPD2Q57E",
+    "name": "#健康になりたい_fun",
+    "topic": "",
+    "purpose": "健康・ヘルスケアに興味がある人が雑談するチャンネル。ダイエットや禁煙など、健康的であるために努力している人々を労いましょう。",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C029ZA03QUS",
+    "name": "#corporate",
+    "topic": "請求書送付先メールアドレス\nTO：backoffice@recustomer.co\nCC：recustomer-c009@invoice.workhero.co.jp",
+    "purpose": "社内の手続き、バックオフィス関係など。",
+    "memberCount": 12,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C05FS1S8VT5",
+    "name": "#dev-db-notify",
+    "topic": "",
+    "purpose": "Please share any database changes you make here.",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01CK5JSFQR",
+    "name": "#shopify-dev",
+    "topic": "\u003chttps://docs.google.com/spreadsheets/d/1EJmdb2Mn1Mx3ywblL3Q4aqP1PIHatPrpBfam2OjVaA8/edit#gid=225038655\u003e",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0334G26J4A",
+    "name": "#prj-recustomer-alp",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C06EDURD3CH",
+    "name": "#extenal-musubite",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C073P2FU19D",
+    "name": "#infra-prod-account-notify",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02L2025CLD",
+    "name": "#external-forkwell",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 9,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C09LDFB40G3",
+    "name": "#external-returnhelper",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 12,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C09TKMSCSMQ",
+    "name": "#tatsuki-youtrust-webhook",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C04JTPLN78X",
+    "name": "#1on1-tatsuki",
+    "topic": "",
+    "purpose": "タッキーとの1on1用",
+    "memberCount": 4,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C01TGGF1BGS",
+    "name": "#extenal-stack",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 36,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C02K6J9UQLT",
+    "name": "#hr-manager",
+    "topic": "what we use\n\u003chttps://whatweuse.dev/company/recustomer\u003e\n\n候補者管理\n\u003chttps://www.notion.so/recustomer/2bd2240203ba4de2b46b9ed4b94dd469\u003e",
+    "purpose": "エンジニア採用に関するチャンネル",
+    "memberCount": 13,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C0ADUBD67EY",
+    "name": "#tatsuki-review-alert",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C073H5FUQ85",
+    "name": "#recustomer_findy",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 37,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C06HHNVKNSV",
+    "name": "#external-findy-team-plus",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 25,
+    "mpim": false,
+    "im": false,
+    "private": true
+  }
+]
