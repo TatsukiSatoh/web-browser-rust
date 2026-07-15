@@ -3,6 +3,8 @@
 extern crate alloc;
 
 pub mod url;
+pub mod http;
+pub mod error;
 
 // pub fn add(left: usize, right: usize) -> usize {
 //     left + right
