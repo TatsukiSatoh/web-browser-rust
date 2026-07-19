@@ -92,7 +92,7 @@ impl HttpResponse {
     }
 }
 
-//#[cfg(test)]
+#[cfg(test)]
 mod tests {
     use super::*;
 

@@ -202,7 +202,7 @@ impl Iterator for HtmlTokenizer {
                         continue;
                     }
 
-                    if c.is_alphabetic() {
+                    if c.is_ascii_alphabetic() {
                         self.reconsume = true;
                         self.state =State::TagName;
                         self.create_tag(true);
@@ -221,7 +221,7 @@ impl Iterator for HtmlTokenizer {
                         return Some(HtmlToken::Eof);
                     }
 
-                    if c.is_alphabetic() {
+                    if c.is_ascii_alphabetic() {
                         self.reconsume = true;
                         self.state = State::TagName;
                         self.create_tag(false);
@@ -379,7 +379,7 @@ impl Iterator for HtmlTokenizer {
                     }
 
                     self.reconsume = true;
-                    self.state = State::BeforeAttributeValue;
+                    self.state = State::BeforeAttributeName;
                 }
                 State::SelfClosingStartTag => {
                     if c == '>' {
@@ -417,7 +417,7 @@ impl Iterator for HtmlTokenizer {
                     return Some(HtmlToken::Char('<'));
                 }
                 State::ScriptDataEndTagOpen => {
-                    if c.is_alphabetic() {
+                    if c.is_ascii_alphabetic() {
                         self.reconsume = true;
                         self.state = State::ScriptDataEndTagName;
                         self.create_tag(false);

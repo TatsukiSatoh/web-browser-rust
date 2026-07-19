@@ -20,11 +20,11 @@ impl Attribute {
         }
     }
 
-    pub fn name(&self) {
-        self.name.clone();
+    pub fn name(&self) -> String {
+        self.name.clone()
     }
 
-    pub fn value(&self) {
-        self.value.clone();
+    pub fn value(&self) -> String {
+        self.value.clone()
     }
 }

@@ -8,6 +8,8 @@ pub mod http;
 pub mod error;
 pub mod renderer;
 pub mod utils;
+pub mod constants;
+pub mod display_item;
 
 // pub fn add(left: usize, right: usize) -> usize {
 //     left + right
